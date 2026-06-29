@@ -80,11 +80,12 @@ This project includes:
 
 ```
 Customer_Behavior_Analysis/
+│── Customer-Shopping-Behavior-Analysis.pptx
 │── Customer_shopping.ipynb
 │── Customer_shopping_sqlqueys.sql
-│── customer_shopping_behavior.csv
-│── Customer-Shopping-Behavior-Analysis.pdf
+│── LICENSE
 │── README.md
+│── customer_shopping_behavior.csv
 ```
 
 ---
