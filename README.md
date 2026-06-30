@@ -75,7 +75,9 @@ This project includes:
 - Express shipping customers spent slightly more on average.
 
 ---
-
+## Power PI Dashboard
+https://github.com/Kunalthakur01/Customer_Behavior_analysis/blob/main/Screenshot%202026-06-29%20185823.png
+![Dashboard]((https://github.com/Kunalthakur01/Customer_Behavior_analysis/blob/main/Screenshot%202026-06-29%20185823.png)?raw=true)
 ## 📂 Repository Structure
 
 ```
