@@ -76,8 +76,7 @@ This project includes:
 
 ---
 ## Power PI Dashboard
-https://github.com/Kunalthakur01/Customer_Behavior_analysis/blob/main/Screenshot%202026-06-29%20185823.png
-![Power BI Dashboard](Screenshot%202026-06-29%20185823.png)
+![Customer Behavior Dashboard](Customer_behavior_Dashboard.png)
 ## 📂 Repository Structure
 
 ```
