@@ -76,7 +76,9 @@ This project includes:
 
 ---
 ## Power PI Dashboard
-![Customer Behavior Dashboard](customer_behavior.pbix)
+🔗 [View Interactive Dashboard](customer_behavior.pbix)
+![Customer Behavior Dashboard](customer_behavior_Dashboard.png)
+
 ## 📂 Repository Structure
 
 ```
